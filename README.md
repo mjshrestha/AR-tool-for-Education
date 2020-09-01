@@ -33,8 +33,7 @@ c.	Allow students to view and interact with the components com-bined
 	
 ## Using the app
 
-- If you are interested in using the app, you can download and test the apk in Android mobile device of version 10. Please note that for the marker-based object detection (Model on object) the mobile camera needs to fo-cus on the images in the following link (car image for car engine and tire image for tire model) that can be found in /Pictures folder or link [here].
-(https://gtvault-my.sharepoint.com/:f:/g/personal/mshrestha6_gatech_edu/EtDA-fmSCBdDiK6TRp_h55EB4LkIT1eseg2l_UE0Yhraag)
+- If you are interested in using the app, you can download and test the apk in Android mobile device of version 10. Please note that for the marker-based object detection (Model on object) the mobile camera needs to fo-cus on the images in the following link (car image for car engine and tire image for tire model) that can be found in /Pictures folder or link [here](https://gtvault-my.sharepoint.com/:f:/g/personal/mshrestha6_gatech_edu/EtDA-fmSCBdDiK6TRp_h55EB4LkIT1eseg2l_UE0Yhraag)
 
 i) Car image for car engine model projection | ii)Tire image for tire model projection
 ---------------------------------------------|-----------------------------------------
@@ -42,8 +41,8 @@ i) Car image for car engine model projection | ii)Tire image for tire model proj
 
 
 - For the marker-less object detection (Model on ground), you need to point the mobile camera to the ground and trace the white square bracket as shown in the figure below (marked with the red circle in the picture) and click on it to see the virtual 3D model of car engine.
-<img src ="Pictures/plane_finder1.jpg">
+<img src ="Pictures/plane_finder1.jpg" width= "300" height = "500">
 Figure 1— White square to track the ground plane on which the virtual 3D model is projected in the marker-less button in the app.
 
 #### Note:
-PLease refer the usertutorial for using the app in ```/Docs``` folder
+Please refer the usertutorial for using the app in ```/Docs``` folder
