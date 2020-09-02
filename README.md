@@ -1,4 +1,4 @@
-# AR tool for Engineering Education
+# AR app for Engineering Education
 In this project, to aid in the ongoing development and experimentation of use of AR in education, an AR based tool was developed. The tool is able to in-tegrate 3D models used in engineering education, mainly electronics and mechanical and allow students to view them in the context of real environment. The project will contribute in the field of educational AR apps by developing a new app as a supplemental tool for improving teaching. The current scope of the project will develop a prototype with limited opensource 3D models, interaction abilities, teaching content and quiz feature. 
 
 ##	Project Overview
