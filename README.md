@@ -42,8 +42,8 @@ i) Car image for car engine model projection | ii)Tire image for tire model proj
 
 - For the marker-less object detection (Model on ground), you need to point the mobile camera to the ground and trace the white square bracket as shown in the figure below (marked with the red circle in the picture) and click on it to see the virtual 3D model of car engine.
 <p align="center> 
-	  <img src ="Pictures/plane_finder1.jpg" width= "300" height = "500">
+ <img src ="Pictures/plane_finder1.jpg" width= "300" height = "500">
 </p>
-<sub><sup>Figure 1— White square to track the ground plane on which the virtual 3D model is projected in the marker-less button in the app.</sup></sub>
+<sup>Figure 1— White square to track the ground plane on which the virtual 3D model is projected in the marker-less button in the app.</sup>
 
 #### Note: Please refer the usertutorial for using the app in ```/Docs``` folder
