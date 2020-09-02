@@ -11,14 +11,14 @@ The main features of the project can be listed as follows:
 4.	Allow students to engage with the model with interactions such as rota-tion, scaling, translating etc. using touch and device orientation input
 5.	Provide help, tutorial, demo modes to help students use the tool
 6.	Provide hotspots on the model to get more information about the part of the model and overall information about the model
-7.	Provide at least two types quiz based on the models to access student learning
-		a.	Multiple choice quiz on the overall model displayed
-		b.	Multiple choice quiz to identify part/points of the model
-		c.	Track the scores and provide feedback to students
-8.	Integrate 3D models with more than one component
-		a.	Allow students to interact each component separately
-		b.	Also have a mode to see how different components combine to-gether to form a larger model
-		c.	Allow students to view and interact with the components com-bined
+7.	Provide at least two types quiz based on the models to access student learning:
+		a. Multiple choice quiz on the overall model displayed
+		b. Multiple choice quiz to identify part/points of the model
+		c. Track the scores and provide feedback to students
+8.	Integrate 3D models with more than one component: 
+		a. Allow students to interact each component separately
+		b. Also have a mode to see how different components combine to-gether to form a larger model
+		c. Allow students to view and interact with the components com-bined
 
 ## System Requirements
 
