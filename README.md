@@ -11,17 +11,17 @@ The main features of the app can be listed as follows:
 
 #### 1. AR based learning
 
-Using 3D virtual model on real environments objects to learn baisc parts of engineering models here car engine model and tire used. 
+Using 3D virtual model on real environments objects to learn baisc parts of engineering models here car engine model and tire used.
 
 <img src ="Pictures/top_of_car.png" height = "400">
-<sup>Figure 2— Screenshots of the app for (A) Car engine model on real car, (B) Car engine model on real car with text hidden, (C) Multiple parts of tire on real tire (D) Car engine model on ground surface </sup>
+<sup>Figure 2— Screenshots for (A) Car engine model on real car, (B) Car engine model on real car with text hidden, (C) Multiple parts of tire on real tire (D) Car engine model on ground surface </sup>
 
  #### 2. Quiz based learning
  
 Text and 3D model based multiple choice quizzes to access the student's knowledge.
 
 <img src ="Pictures/quiz.jpg" height = "400">
-<sup>Figure 3— Screenshots of the app for (A) Simple quiz with text, (B)Simple quiz with picture, (C) Interactive quiz, (D) Review page.</sup>
+<sup>Figure 3— Screenshots for (A) Simple quiz with text, (B)Simple quiz with picture, (C) Interactive quiz, (D) Review page.</sup>
 
 ## System Requirements
 
@@ -52,4 +52,4 @@ i) Car image for car engine model projection | ii)Tire image for tire model proj
 </div>
 
 
-##### Note: Please refer the usertutorial in ```/Docs``` folder for using the app.
+##### Note: Please refer the *Usertutorial* in ```/Docs``` folder for using the app.
