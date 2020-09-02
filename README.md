@@ -8,16 +8,18 @@ education. The app displays the models required to be taught in engineering cour
 ### Main features 
 The main features of the app can be listed as follows:
 
+
 **1. AR based learning **
 
 Using 3D virtual model on real environments objects to learn baisc parts of engineering models here car engine model and tire used. 
-<img src ="Pictures/top_of_car.png">
+
+<img src ="Pictures/top_of_car.png" height = "500">
 Figure 2— Screenshots of the app for (A) Car engine model on real car, (B) Car engine model on real car with text hidden, (C) Multiple parts of tire on real tire (D) Car engine model on ground surface
 
  **2. Quiz based learning**
  
 Text and 3D model based multiple choice quizzes to access the student's knowledge.
-<img src ="Pictures/quiz.jpg">
+<img src ="Pictures/quiz.jpg" height = "500">
 Figure 3— Screenshots of the app for (A) Simple quiz with text, (B)Simple quiz with picture, (C) Interactive quiz, (D) Review page
 
 ## System Requirements
@@ -38,7 +40,7 @@ Figure 3— Screenshots of the app for (A) Simple quiz with text, (B)Simple quiz
 
 i) Car image for car engine model projection | ii)Tire image for tire model projection
 ---------------------------------------------|-----------------------------------------
-<img src ="Pictures/car_image.jpg" width= "500" height = "500"> | <img src ="Pictures/tire_image.jpg" width= "500" height = "500">
+<img src ="Pictures/car_image.jpg" width= "300" height = "300"> | <img src ="Pictures/tire_image.jpg" width= "300" height = "300">
 
 
   - For projecting the 3D models on ground uisng marker-less object detection/*ground plane detection (Model on ground)*, you need to point the mobile camera to the ground and trace the white square bracket as shown in the figure below (marked with the red circle in the picture) and click on it to see the virtual 3D model of car engine.
