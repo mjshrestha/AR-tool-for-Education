@@ -1,24 +1,24 @@
 # AR tool for Engineering Education
-In this project, to aid in the ongoing development and experimentation of use of AR in education, an AR based tool was developed. The tool is able to in-tegrate 3D models used in engineering education, mainly electronics and mechanical and allow students to view them in the context of real environment. The project will contribute in the field of educational AR apps by developing a new app as a supplemental tool for improving teaching. The current scope of the project will develop a prototype with limited opensource 3D models, interaction abilities, teaching content and quiz feature. 
+In this project, to aid in the ongoing development and experimentation of use of AR in education, an AR based tool was developed. The tool is able to integrate 3D models used in engineering education, mainly electronics and mechanical and allow students to view them in the context of real environment. The project will contribute in the field of educational AR apps by developing a new app as a supplemental tool for improving teaching. Currently, a prototype with limited opensource 3D models, interaction abilities, teaching content and quiz feature is developed. using Unity and Vuforia. The
 
 ## Project Overview
-This project will develop an Augmented Reality mobile application to improve quality of teaching in engineering education. (While this project focus on using 3D models for engineering topics, the models can be for any education topic.) The app will display the models required to be taught in engineering courses in 3D interface. The students will be able to interact with the model using touch inter-face to rotate, translate and scale. For each model, a help menu will be provided on how to interact with it. Each model will also have a hotspot point on it where students can touch to find more information about that component. In addition, there will be a quiz mode where questions about the model will be asked to ac-cess student knowledge. 
+This work presents an Augmented Reality mobile application developed to be implemented by engineering instructors to improve quality of teaching in engineering
+education. The app displays the models required to be taught in engineering courses in 3D interface and allow students to interact with them. The app contains quiz which can be used by students to assess their learning in the app itself. 
+
 ### Main features 
-The main features of the project can be listed as follows:
-1. Develop an augmented reality mobile app based on Android OS
-2. Integrate various 3D models used in engineering education in the app
-3. Implement object detection to combine virtual model with real environ-ment (E.g. Engine in a car)
-4. Allow students to engage with the model with interactions such as rota-tion, scaling, translating etc. using touch and device orientation input
-5. Provide help, tutorial, demo modes to help students use the tool
-6. Provide hotspots on the model to get more information about the part of the model and overall information about the model
-7. Provide at least two types quiz based on the models to access student learning:
-   1. Multiple choice quiz on the overall model displayed
-   2. Multiple choice quiz to identify part/points of the model
-   3. Track the scores and provide feedback to students
-8. Integrate 3D models with more than one component: 
-   1. Allow students to interact each component separately
-   2. Also have a mode to see how different components combine to-gether to form a larger model
-   3. Allow students to view and interact with the components com-bined
+The main features of the app can be listed as follows:
+
+**1. AR based learning **
+
+Using 3D virtual model on real environments objects to learn baisc parts of engineering models here car engine model and tire used. 
+<img src ="Pictures/top_of_car.png">
+Figure 2— Screenshots of the app for (A) Car engine model on real car, (B) Car engine model on real car with text hidden, (C) Multiple parts of tire on real tire (D) Car engine model on ground surface
+
+ **2. Quiz based learning**
+ 
+Text and 3D model based multiple choice quizzes to access the student's knowledge.
+<img src ="Pictures/quiz.jpg">
+Figure 3— Screenshots of the app for (A) Simple quiz with text, (B)Simple quiz with picture, (C) Interactive quiz, (D) Review page
 
 ## System Requirements
 
