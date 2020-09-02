@@ -14,14 +14,14 @@ The main features of the app can be listed as follows:
 Using 3D virtual model on real environments objects to learn baisc parts of engineering models here car engine model and tire used.
 
 <img src ="Pictures/top_of_car.png" height = "400">
-<sup>Figure 2— Screenshots for (A) Car engine model on real car, (B) Car engine model on real car with text hidden, (C) Multiple parts of tire on real tire (D) Car engine model on ground surface </sup>
+<sup>Figure 1— Screenshots for (A) Car engine model on real car, (B) Car engine model on real car with text hidden, (C) Multiple parts of tire on real tire (D) Car engine model on ground surface </sup>
 
  #### 2. Quiz based learning
  
 Text and 3D model based multiple choice quizzes to access the student's knowledge.
 
 <img src ="Pictures/quiz.jpg" height = "400">
-<sup>Figure 3— Screenshots for (A) Simple quiz with text, (B)Simple quiz with picture, (C) Interactive quiz, (D) Review page.</sup>
+<sup>Figure 2— Screenshots for (A) Simple quiz with text, (B)Simple quiz with picture, (C) Interactive quiz, (D) Review page.</sup>
 
 ## System Requirements
 
@@ -39,7 +39,7 @@ Text and 3D model based multiple choice quizzes to access the student's knowledg
 - If you are interested in testing the app, you can download and test the apk in Android mobile device of version 10. 
    - For projecting the 3D models using the *marker-based object detection (Model on object)*, the mobile camera needs to focus on the following images (car image for car engine and tire image for tire model) that can be deownloaded from ```/Pictures``` folder or from this [link](https://gtvault-my.sharepoint.com/:f:/g/personal/mshrestha6_gatech_edu/EtDA-fmSCBdDiK6TRp_h55EB4LkIT1eseg2l_UE0Yhraag)
 
-i) Car image for car engine model projection | ii)Tire image for tire model projection
+Figure 3- i) Car image for car engine model projection | ii)Tire image for tire model projection
 ---------------------------------------------|-----------------------------------------
 <img src ="Pictures/car_image.jpg" width= "300" height = "300"> | <img src ="Pictures/tire_image.jpg" width= "300" height = "300">
 
@@ -48,7 +48,7 @@ i) Car image for car engine model projection | ii)Tire image for tire model proj
 
 <div align="center">
 <img src ="Pictures/plane_finder1.jpg" width= "300" height = "400" alt="Plane finder">
-<p><sup>Figure 1— White square to track the ground plane on which the virtual 3D model is projected in the marker-less button in the app.</sup></p>
+<p><sup>Figure 4— White square to track the ground plane on which the virtual 3D model is projected in the marker-less button in the app.</sup></p>
 </div>
 
 
