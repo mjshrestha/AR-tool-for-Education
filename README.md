@@ -33,14 +33,15 @@ The main features of the project can be listed as follows:
 	
 ## Using the app
 
-- If you are interested in using the app, you can download and test the apk in Android mobile device of version 10. Please note that for the marker-based object detection (Model on object) the mobile camera needs to focus on the images in the following link (car image for car engine and tire image for tire model) that can be found in ```/Pictures``` folder or link [here](https://gtvault-my.sharepoint.com/:f:/g/personal/mshrestha6_gatech_edu/EtDA-fmSCBdDiK6TRp_h55EB4LkIT1eseg2l_UE0Yhraag)
+- If you are interested in testing the app, you can download and test the apk in Android mobile device of version 10. 
+   - For projecting the 3D models using the *marker-based object detection (Model on object)*, the mobile camera needs to focus on the following images (car image for car engine and tire image for tire model) that can be deownloaded from ```/Pictures``` folder or from this [link](https://gtvault-my.sharepoint.com/:f:/g/personal/mshrestha6_gatech_edu/EtDA-fmSCBdDiK6TRp_h55EB4LkIT1eseg2l_UE0Yhraag)
 
 i) Car image for car engine model projection | ii)Tire image for tire model projection
 ---------------------------------------------|-----------------------------------------
 <img src ="Pictures/car_image.jpg" width= "500" height = "500"> | <img src ="Pictures/tire_image.jpg" width= "500" height = "500">
 
 
-- For the marker-less object detection (Model on ground), you need to point the mobile camera to the ground and trace the white square bracket as shown in the figure below (marked with the red circle in the picture) and click on it to see the virtual 3D model of car engine.
+  - For projecting the 3D models on ground uisng marker-less object detection/*ground plane detection (Model on ground)*, you need to point the mobile camera to the ground and trace the white square bracket as shown in the figure below (marked with the red circle in the picture) and click on it to see the virtual 3D model of car engine.
 
 <div align="center">
 <img src ="Pictures/plane_finder1.jpg" width= "300" height = "500" alt="Plane finder">
