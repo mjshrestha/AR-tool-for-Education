@@ -52,4 +52,4 @@ i) Car image for car engine model projection | ii)Tire image for tire model proj
 </div>
 
 
-##### Note: Please refer the usertutorial in ```/Docs``` folder for using the app.
+##### Note: Please refer the *Usertutorial* in ```/Docs``` folder for using the app.
