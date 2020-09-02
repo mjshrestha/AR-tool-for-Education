@@ -39,7 +39,7 @@ Text and 3D model based multiple choice quizzes to access the student's knowledg
 - If you are interested in testing the app, you can download and test the apk in Android mobile device of version 10. 
    - For projecting the 3D models using the *marker-based object detection (Model on object)*, the mobile camera needs to focus on the following images (car image for car engine and tire image for tire model) that can be deownloaded from ```/Pictures``` folder or from this [link](https://gtvault-my.sharepoint.com/:f:/g/personal/mshrestha6_gatech_edu/EtDA-fmSCBdDiK6TRp_h55EB4LkIT1eseg2l_UE0Yhraag)
 
-Figure 3- i) Car image for car engine model projection | ii)Tire image for tire model projection
+Figure3-i)Image for car-engine model projection | ii)Image for tire model projection
 ---------------------------------------------|-----------------------------------------
 <img src ="Pictures/car_image.jpg" width= "300" height = "300"> | <img src ="Pictures/tire_image.jpg" width= "300" height = "300">
 
